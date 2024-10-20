@@ -41,9 +41,10 @@ function activate(context) {
     vscode.window.onDidChangeActiveTextEditor(
         editor => {
             activeEditor = editor;
-            if (activeEditor) {
-                toggleMarkdownShortcuts(activeEditor.document.languageId);
-            }
+            // if (activeEditor) {
+            //     toggleMarkdownShortcuts(activeEditor.document.languageId);
+            // }
+            toggleMarkdownShortcuts(activeEditor?.document.languageId);
         },
         null,
         context.subscriptions
