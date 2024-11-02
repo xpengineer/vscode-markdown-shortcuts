@@ -287,12 +287,12 @@
             },
             {
                 "command": "md-shortcut.toggleBullets",
-                "key": "ctrl+m ctrl+b",
+                "key": "ctrl+.",
                 "when": "editorTextFocus && markdownShortcuts:enabled"
             },
             {
                 "command": "md-shortcut.toggleNumbers",
-                "key": "ctrl+m ctrl+1",
+                "key": "ctrl+1",
                 "when": "editorTextFocus && markdownShortcuts:enabled"
             },
             {
