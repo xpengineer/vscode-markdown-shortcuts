@@ -3,6 +3,7 @@ typings/**
 test/**
 gifs/**
 resources/**
+media/demo/**
 .gitignore
 jsconfig.json
 vsc-extension-quickstart.md
