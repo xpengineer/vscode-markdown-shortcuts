@@ -1,9 +1,9 @@
 {
-    "name": "markdown-shortcuts",
-    "displayName": "Markdown Shortcuts",
+    "name": "xp-markdown-shortcuts",
+    "displayName": "XP Markdown Shortcuts",
     "description": "Shortcuts for Markdown editing",
     "icon": "media/images/markdown-shortcuts-512x512.png",
-    "version": "0.13.0",
+    "version": "0.16.0",
     "publisher": "mdickin",
     "engines": {
         "vscode": "^1.9.0"
@@ -420,9 +420,9 @@
         "vscode": "^1.0.0",
         "vscode-test-content": "^1.1.0"
     },
-    "homepage": "https://github.com/mdickin/vscode-markdown-shortcuts",
+    "homepage": "https://github.com/xpengineer/vscode-markdown-shortcuts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mdickin/vscode-markdown-shortcuts.git"
+        "url": "https://github.com/xpengineer/vscode-markdown-shortcuts.git"
     }
 }
